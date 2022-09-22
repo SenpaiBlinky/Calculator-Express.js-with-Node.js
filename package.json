@@ -1,0 +1,22 @@
+{
+  "name": "calculator-express.js-with-node",
+  "version": "1.0.0",
+  "description": "Building a calculator using node.js and express.js",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SenpaiBlinky/Calculator-Express.js-with-Node.js.git"
+  },
+  "author": "Shady Senpai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SenpaiBlinky/Calculator-Express.js-with-Node.js/issues"
+  },
+  "homepage": "https://github.com/SenpaiBlinky/Calculator-Express.js-with-Node.js#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
